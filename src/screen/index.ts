@@ -1,0 +1,8 @@
+export { default as Home } from './home'
+export { default as Search } from './search'
+export { default as Library } from './library'
+export { default as Profile } from './profile'
+export { default as Modal } from './modal'
+export { default as Settings } from './settings'
+export { default as Premium } from './premium'
+export { default as Music } from './music'
